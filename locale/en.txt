@@ -6,7 +6,7 @@
 tour.description = Hermoso y amplio hogar de 2 habitaciones en suite, bello patio trasero y todas las dependencias.
 
 ### Title
-tour.name = Preciosa Residencia - Primer Presidente
+tour.name = Preciosa Residencia - Mburucuya
 
 ## Skin
 
@@ -43,10 +43,10 @@ Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consect
 panorama_1100273B_0162_5F7F_416E_855F7548FB47.label = Toma 7
 panorama_11003CA6_0162_B116_4168_BC27DBC6D8A8.label = Toma 3
 panorama_1104628A_0162_5119_4156_930BBFBA7D21.label = Toma 2
+panorama_1109F0AE_0163_D119_4169_7B310BFA1316.label = Toma 8
 panorama_11163902_017D_B30E_416D_66BF11FBBBE0.label = 03
 panorama_111F68F5_0162_510A_4153_54ED12E4CACA.label = Toma 1
 panorama_11304DC5_0162_530A_4170_6ECC872AA504.label = Toma 6
 panorama_116CF8B7_0162_F177_416A_713C4A1EDBD3.label = Toma 4
 panorama_117EA96D_017D_D31A_4160_4D5E17A5B4B2.label = 02
 panorama_11D6428E_0162_B116_4146_ED3EBB3DEEEA.label = Toma 5
-panorama_12EB560A_01EA_FB7C_4177_A72AF0FEB513.label = Toma 8
